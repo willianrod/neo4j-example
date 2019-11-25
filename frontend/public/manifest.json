@@ -1,0 +1,8 @@
+{
+  "short_name": "Neo4j - Exemplo",
+  "name": "Exemplo de aplicação com Neo4j",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

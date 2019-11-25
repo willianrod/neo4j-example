@@ -1,0 +1,4 @@
+.env
+/node_modules
+assets/alunos.js
+insertAlunos.js
